@@ -1,0 +1,15 @@
+{
+    "name": "fetch-sandbox",
+    "version": "1.0.0",
+    "description": "Sandbox to play with fetch",
+    "main": "fetchz.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "type": "module",
+    "author": "guinetik",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^3.2.9"
+    }
+}
